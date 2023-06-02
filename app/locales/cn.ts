@@ -168,7 +168,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "可以微信联系wzmz2011，获取使用密码或key，体验chatgpt的乐趣",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
