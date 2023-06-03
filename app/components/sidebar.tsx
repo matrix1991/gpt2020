@@ -98,7 +98,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>丸子ChatGPT</div>
         <div className={styles["sidebar-sub-title"]}>
-         chatgpt及midjourney注册升级，仅需官方价9折。AI电商主图，299元/5张，自有AI站点部署等全案解决方案，咨询丸子微信：wzmz2011
+         体验原版chatgpt，chatgpt及midjourney升级充值，仅需官方价9折。AI电商主图生成，自有AI站点部署等全案解决方案，咨询丸子微信：wzmz2011
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
